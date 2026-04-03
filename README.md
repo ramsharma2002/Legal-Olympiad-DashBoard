@@ -127,13 +127,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-### Build for Production
-
-```bash
-npm run build
-npm run preview
-```
-
 ---
 
 ## ⚙️ Customisation
@@ -150,7 +143,3 @@ All data lives in `src/data/mockData.js`. To customise:
 When a real backend/API is ready, only the import sources in each page need to change — components are fully data-agnostic.
 
 ---
-
-## 📄 License
-
-MIT
